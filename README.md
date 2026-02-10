@@ -22,12 +22,16 @@ The dashboard explores:
 
 ## Tools Used
 - Power BI for visualization and dashboard creation
-- HR dataset containing employee records
+- SQL to analyze HR dataset containing employee records
 
 ## Outcome
 The dashboard provides a clear visual summary of workforce composition, retention, and compensation patterns, enabling quick insights for HR planning and decision-making.
 
+---
+## Data Source
+AdventureWorksSampleDatabase
 
+---
 ## Report link
 [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiYzE2YjZhMzgtNzI4NC00ZGM3LTg5ODQtYWZhYzQ3YjJiMTlmIiwidCI6IjBlMjAwNTA5LWJjNjgtNGY4My1iMzI3LWJmZmY0NjU0MmNjZCJ9)
 
