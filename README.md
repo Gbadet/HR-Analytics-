@@ -29,7 +29,7 @@ The dashboard provides a clear visual summary of workforce composition, retentio
 
 
 ## Report link
-[HR Analysis]((https://app.powerbi.com/view?r=eyJrIjoiYzE2YjZhMzgtNzI4NC00ZGM3LTg5ODQtYWZhYzQ3YjJiMTlmIiwidCI6IjBlMjAwNTA5LWJjNjgtNGY4My1iMzI3LWJmZmY0NjU0MmNjZCJ9))
+[HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiYzE2YjZhMzgtNzI4NC00ZGM3LTg5ODQtYWZhYzQ3YjJiMTlmIiwidCI6IjBlMjAwNTA5LWJjNjgtNGY4My1iMzI3LWJmZmY0NjU0MmNjZCJ9)
 
 ---
 
