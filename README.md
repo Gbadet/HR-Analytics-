@@ -8,8 +8,13 @@ This project presents an interactive Power BI dashboard analysing HR Data. It vi
 
 ## Project Overview
 The dashboard helps answer the following questions:
-- What is the employee distibution by gender?
-- What is the employee distibution by marital status?
+1. What is the distribution of employees by age, gender, and marital status?
+2. How many employees fall into different tenure categories based on their hire dates?
+3. What is the average salary by department group, and how many employees fall into different salary bands?
+4. What are the average vacation and sick leave hours overall and by department group?
+5. How many job candidates are currently in the system?
+6. What is the distribution of employees by organizational level?
+7. What is the employee attrition rate based on department history data?
 
 ---
 
@@ -19,7 +24,6 @@ The dashboard helps answer the following questions:
 ---
 
 ## Tool Used
-- Excel
 - SQL
 - Power BI
 
